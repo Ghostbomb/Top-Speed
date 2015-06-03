@@ -47,6 +47,7 @@ public class CameraController : MonoBehaviour
 		
 		transform.position = newPosition;
 		transform.LookAt(newTargetPosition);
-		
+
+
 	}
 }
